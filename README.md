@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rene</h1>
-<h3 align="center">DevOps Wizard from Texas</h3>
+<h3 align="center">DevOps Engineer from Texas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diesel83&label=Profile%20views&color=0e75b6&style=flat" alt="diesel83" /> </p>
 
